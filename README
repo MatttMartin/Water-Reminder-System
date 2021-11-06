@@ -1,0 +1,5 @@
+There is no user interface for this program.
+
+to use:
+change the recipient variable in waterReminder.py to the email you want to receive the message from (you can send SMS through email with most providers)
+you can make the messages whatever you want, and choose the times you want the messages to send.
